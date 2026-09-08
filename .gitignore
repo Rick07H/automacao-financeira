@@ -1,0 +1,10 @@
+# Credenciais — nunca versionar
+.env
+.env.*
+!.env.example
+
+# Configuração local do Claude Code (referencia hosts/paths da máquina)
+.claude/
+
+# Transações reais migradas — contém nome de terceiros (PII), nunca publicar
+migracao/
