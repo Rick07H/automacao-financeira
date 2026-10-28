@@ -1,5 +1,7 @@
 # Automação Financeira
 
+Versão em inglês: [README.en.md](README.en.md)
+
 Captura automática de transações de cartão e conta via Open Finance, com
 categorização e um painel de controle de gastos alimentado sem digitação
 manual. Projeto pessoal para eliminar o registro manual de gastos.
